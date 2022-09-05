@@ -22,6 +22,12 @@ const App = () => {
           >
             Youtube Search App
           </a>
+          <a
+            className="ui link"
+            href="https://jigogwapo.github.io/widgets-showcase/"
+          >
+            Widgets
+          </a>
         </div>
       </div>
     </div>
