@@ -16,18 +16,32 @@ const App = () => {
         <h1 className="ui top attached block header">JESREAL ARCILLAS</h1>
         <div className="ui left aligned attached segment">
           <h3 className="ui header">Projects:</h3>
-          <a
-            className="ui link"
-            href="https://jigogwapo.github.io/youtube-search-app/"
-          >
-            Youtube Search App
-          </a>
-          <a
-            className="ui link"
-            href="https://jigogwapo.github.io/widgets-showcase/"
-          >
-            Widgets
-          </a>
+          <div className="ui huge relaxed divided animated list">
+            <div className="item">
+              <a
+                className="ui link"
+                href="https://jigogwapo.github.io/youtube-search-app/"
+              >
+                Youtube Search App
+              </a>
+            </div>
+            <div className="item">
+              <a
+                className="ui link"
+                href="https://jigogwapo.github.io/widgets-showcase/"
+              >
+                Widgets
+              </a>
+            </div>
+            <div className="item">
+              <a
+                className="ui link"
+                href="https://jigogwapo.github.io/song-details/"
+              >
+                Song Details App (Built with Redux)
+              </a>
+            </div>
+          </div>
         </div>
       </div>
     </div>
