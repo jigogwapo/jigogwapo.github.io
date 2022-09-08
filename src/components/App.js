@@ -20,7 +20,7 @@ const App = () => {
             <div className="item">
               <a
                 className="ui link"
-                href="https://jigogwapo.github.io/youtube-search-app/"
+                href="https://jarcillas.github.io/youtube-search-app/"
               >
                 Youtube Search App
               </a>
@@ -28,7 +28,7 @@ const App = () => {
             <div className="item">
               <a
                 className="ui link"
-                href="https://jigogwapo.github.io/widgets-showcase/"
+                href="https://jarcillas.github.io/widgets-showcase/"
               >
                 Widgets
               </a>
@@ -36,7 +36,7 @@ const App = () => {
             <div className="item">
               <a
                 className="ui link"
-                href="https://jigogwapo.github.io/song-details/"
+                href="https://jarcillas.github.io/song-details/"
               >
                 Song Details App (Built with Redux)
               </a>
